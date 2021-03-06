@@ -1,11 +1,11 @@
-package com.cxn.behavioral.strategy;
+package com.xbruce.behavioral.strategy;
 
 import java.util.List;
 
 /**
  * @program: design-patterns
  * @description: 红包抽象策略类
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 09:45
  * @Version v1.0
  */

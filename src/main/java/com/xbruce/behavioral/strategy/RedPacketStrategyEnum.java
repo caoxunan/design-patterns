@@ -1,9 +1,9 @@
-package com.cxn.behavioral.strategy;
+package com.xbruce.behavioral.strategy;
 
 /**
  * @program: design-patterns
  * @description: 红包策略枚举类
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 10:47
  * @Version v1.0
  */

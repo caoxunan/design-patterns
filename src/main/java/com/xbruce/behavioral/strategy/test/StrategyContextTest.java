@@ -1,8 +1,8 @@
-package com.cxn.behavioral.strategy.test;
+package com.xbruce.behavioral.strategy.test;
 
-import com.cxn.behavioral.strategy.RedPacketContext;
-import com.cxn.behavioral.strategy.concrete.LineSegmentCuttingStrategy;
-import com.cxn.behavioral.strategy.concrete.TwoTimesMainValueStrategy;
+import com.xbruce.behavioral.strategy.RedPacketContext;
+import com.xbruce.behavioral.strategy.concrete.LineSegmentCuttingStrategy;
+import com.xbruce.behavioral.strategy.concrete.TwoTimesMainValueStrategy;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * @program: design-patterns
  * @description: 策略模式的测试类
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 10:37
  * @Version v1.0
  */

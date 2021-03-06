@@ -1,7 +1,7 @@
-package com.cxn.behavioral.strategy.test;
+package com.xbruce.behavioral.strategy.test;
 
-import com.cxn.behavioral.strategy.RedPacketContextFactory;
-import com.cxn.behavioral.strategy.RedPacketStrategyEnum;
+import com.xbruce.behavioral.strategy.RedPacketContextFactory;
+import com.xbruce.behavioral.strategy.RedPacketStrategyEnum;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @program: design-patterns
  * @description: 红包策略模式 结合 工厂模式 测试类
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 11:01
  * @Version v1.0
  */

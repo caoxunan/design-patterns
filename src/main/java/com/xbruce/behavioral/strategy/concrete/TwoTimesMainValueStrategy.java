@@ -1,6 +1,6 @@
-package com.cxn.behavioral.strategy.concrete;
+package com.xbruce.behavioral.strategy.concrete;
 
-import com.cxn.behavioral.strategy.AbstractRedPacketStrategy;
+import com.xbruce.behavioral.strategy.AbstractRedPacketStrategy;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * @program: design-patterns
  * @description: ${description}
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 10:08
  * @Version v1.0
  */

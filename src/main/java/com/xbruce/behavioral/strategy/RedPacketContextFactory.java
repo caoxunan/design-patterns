@@ -1,7 +1,7 @@
-package com.cxn.behavioral.strategy;
+package com.xbruce.behavioral.strategy;
 
-import com.cxn.behavioral.strategy.concrete.LineSegmentCuttingStrategy;
-import com.cxn.behavioral.strategy.concrete.TwoTimesMainValueStrategy;
+import com.xbruce.behavioral.strategy.concrete.LineSegmentCuttingStrategy;
+import com.xbruce.behavioral.strategy.concrete.TwoTimesMainValueStrategy;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import java.util.List;
  * @program: design-patterns
  * @description: 红包策略工厂（策略模式 + 简单工厂模式）
  * 将实例化具体策略的过程由客户端转移到具体策略工厂类中
- * @author: cxn
+ * @author: xbruce
  * @create: 2018-05-18 10:50
  * @Version v1.0
  */
